@@ -1,0 +1,5 @@
+list of bounties
+
+- [ ] make this into a framework like professorinteresting.eth/u/kengrimes/ so ken grimes can have a blog like that
+- [ ] add web3 features
+
